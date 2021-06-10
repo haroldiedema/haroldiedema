@@ -4,12 +4,12 @@
 
 ### I am
 
-- 👨‍🎓  a DX junky. Code is art.
-- 👨🏽‍💻  always working on something cool :wink:.
-- 💬  ask me about anything, I am happy to help.
-- 🤔  always tinkering. Find my personal [projects here](https://www.npmjs.com/search?q=%40byteshift)
-***
+- ▶️  a DX junky. Code is art.
+- ▶️  always working on something cool :wink:.
+- ▶️  available for anything, I am happy to help.
+- ▶️  always tinkering. Find my personal [projects here](https://www.npmjs.com/search?q=%40byteshift)
 
+***
 
 ## Activity
 <p align="center">
