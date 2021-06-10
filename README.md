@@ -13,8 +13,8 @@
 
 ## Activity
 <p align="center">
-  <img width="400" height="130" align="center" src="https://github-readme-stats.vercel.app/api?username=haroldiedema&amp;theme=nord&amp;show_icons=true&amp;bg_color=22272e&amp;hide_border=true" style="max-width:100%;">
-  <img width="400" height="130" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroldiedema&theme=nord&layout=compact&bg_color=22272e&hide_border=true" style="max-width:100%;">
+  <img width="420" height="130" align="center" src="https://github-readme-stats.vercel.app/api?username=haroldiedema&amp;theme=nord&amp;show_icons=true&amp;bg_color=22272e&amp;hide_border=true" style="max-width:100%;">
+  <img width="420" height="130" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroldiedema&theme=nord&layout=compact&bg_color=22272e&hide_border=true" style="max-width:100%;">
 </p>
 
 ***
