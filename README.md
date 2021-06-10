@@ -2,12 +2,12 @@
 
 <img align="right" height="150rem" alt="GIF" src="https://media1.giphy.com/media/jRf5fsn8G6YaogAWxn/200w.webp?cid=ecf05e47gi8syurh50krprpt3mcdfpanslwnkxry91zn4q9x&rid=200w.webp&ct=s" />
 
-**I am**
+### I am
 
 - 👨‍🎓  a DX junky. Code is art.
 - 👨🏽‍💻  always working on something cool :wink:.
 - 💬  ask me about anything, I am happy to help.
-
+- 🤔  always tinkering. Find my personal [projects here](https://www.npmjs.com/search?q=%40byteshift)
 ***
 
 
@@ -19,8 +19,7 @@
 
 ***
 
-## My comfort zone
-<p align="left">
+<p align="center">
   <img width="100" src="https://media4.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif?cid=790b761180c2e1e9844a7bba1660fb39de515ca5ea1e54c3&rid=giphy.gif&ct=s">
   <img width="64" src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp">
   <img width="64" src="https://media4.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=ecf05e47nh47dgwp1c3stajh6hsfy8w8tbrfxdp4fwcbyfmg&rid=giphy.gif&ct=s">
